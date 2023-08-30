@@ -27,12 +27,29 @@ NOTION: [LINK](https://butter-cornflower-1b1.notion.site/my-hundred-days-of-OSS-
 |--|-----|------------------|
 | Day 100 | NA | NA |
 | ... | ... | ... |
-| [Day 23](#day17) | `14 Aug 2023` |  |
-| [Day 22](#day17) | `13 Aug 2023` |  |
-| [Day 21](#day17) | `12 Aug 2023` | D1 |
-| [Day 20](#day17) | `11 Aug 2023` | One Contribution |
-| [Day 19](#day17) | `10 Aug 2023` | Explored new open source tool |
-| [Day 18](#day17) | `09 Aug 2023` | Read the Rust Docs |
+| [Day 40](#day40) | `31 Aug 2023` |  |
+| [Day 39](#day39) | `30 Aug 2023` |  |
+| [Day 38](#day38) | `29 Aug 2023` |  |
+| [Day 37](#day37) | `28 Aug 2023` |  |
+| [Day 36](#day36) | `27 Aug 2023` |  |
+| [Day 35](#day35) | `26 Aug 2023` |  |
+| [Day 34](#day34) | `25 Aug 2023` |  |
+| [Day 33](#day33) | `24 Aug 2023` |  |
+| [Day 32](#day32) | `23 Aug 2023` |  |
+| [Day 31](#day31) | `22 Aug 2023` |  |
+| [Day 30](#day30) | `21 Aug 2023` |  |
+| [Day 29](#day29) | `20 Aug 2023` |  |
+| [Day 28](#day28) | `19 Aug 2023` |  |
+| [Day 27](#day27) | `18 Aug 2023` |  |
+| [Day 26](#day26) | `17 Aug 2023` |  |
+| [Day 25](#day25) | `16 Aug 2023` |  |
+| [Day 24](#day24) | `15 Aug 2023` |  |
+| [Day 23](#day23) | `14 Aug 2023` |  |
+| [Day 22](#day22) | `13 Aug 2023` |  |
+| [Day 21](#day21) | `12 Aug 2023` | D1 |
+| [Day 20](#day20) | `11 Aug 2023` | One Contribution |
+| [Day 19](#day19) | `10 Aug 2023` | Explored new open source tool |
+| [Day 18](#day18) | `09 Aug 2023` | Read the Rust Docs |
 | [Day 17](#day17) | `08 Aug 2023` | One Contribution |
 | [Day 16](#day16) | `07 Aug 2023` | Day Seven of Global Hack Week: [DATA](https://events.mlh.io/events/10012-ghw-data-week-today-in-ghw-day-7) wrapping up and [closing ceremony](https://www.twitch.tv/videos/1892549054) |
 | [Day 15](#day15) | `06 Aug 2023` | Day Six of Global Hack Week: [DATA](https://events.mlh.io/events/10011-ghw-data-week-today-in-ghw-day-6) |
