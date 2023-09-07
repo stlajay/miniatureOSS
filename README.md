@@ -27,6 +27,9 @@ NOTION: [LINK](https://butter-cornflower-1b1.notion.site/my-hundred-days-of-OSS-
 |--|-----|------------------|
 | Day 100 | NA | NA |
 | ... | ... | ... |
+| [Day 47](#day47) | `07 Sept 2023` |  |
+| [Day 46](#day46) | `06 Sept 2023` |  |
+| [Day 45](#day45) | `05 Sept 2023` |  |
 | [Day 44](#day44) | `04 Sept 2023` |  |
 | [Day 43](#day43) | `03 Sept 2023` |  |
 | [Day 42](#day42) | `02 Sept 2023` |  |
