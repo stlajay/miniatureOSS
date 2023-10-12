@@ -27,6 +27,41 @@ NOTION: [LINK](https://butter-cornflower-1b1.notion.site/my-hundred-days-of-OSS-
 |--|-----|------------------|
 | Day 100 | NA | NA |
 | ... | ... | ... |
+| [Day 83](#day80) | `12 Oct 2023` | Read the [QEMU](https://www.qemu.org/docs/master/system/qemu-manpage.html) Documentation |
+| [Day 82](#day80) | `11 Oct 2023` |  |
+| [Day 81](#day80) | `10 Oct 2023` |  |
+| [Day 80](#day80) | `09 Oct 2023` |  |
+| [Day 79](#day79) | `08 Oct 2023` |  |
+| [Day 78](#day78) | `07 Oct 2023` |  |
+| [Day 77](#day77) | `06 Oct 2023` |  |
+| [Day 76](#day76) | `05 Oct 2023` |  |
+| [Day 75](#day75) | `04 Oct 2023` |  |
+| [Day 74](#day74) | `03 Oct 2023` |  |
+| [Day 73](#day73) | `02 Oct 2023` |  |
+| [Day 72](#day72) | `01 Oct 2023` |  |
+| [Day 71](#day71) | `30 Sept 2023` |  |
+| [Day 70](#day70) | `29 Sept 2023` |  |
+| [Day 69](#day68) | `28 Sept 2023` |  |
+| [Day 68](#day67) | `27 Sept 2023` |  |
+| [Day 67](#day66) | `26 Sept 2023` |  |
+| [Day 66](#day65) | `25 Sept 2023` |  |
+| [Day 65](#day64) | `24 Sept 2023` |  |
+| [Day 63](#day63) | `23 Sept 2023` |  |
+| [Day 62](#day62) | `22 Sept 2023` |  |
+| [Day 61](#day61) | `21 Sept 2023` |  |
+| [Day 60](#day60) | `20 Sept 2023` |  |
+| [Day 59](#day59) | `19 Sept 2023` |  |
+| [Day 58](#day58) | `18 Sept 2023` |  |
+| [Day 57](#day57) | `17 Sept 2023` |  |
+| [Day 56](#day56) | `16 Sept 2023` |  |
+| [Day 55](#day55) | `15 Sept 2023` |  |
+| [Day 54](#day54) | `14 Sept 2023` |  |
+| [Day 53](#day53) | `13 Sept 2023` |  |
+| [Day 52](#day52) | `12 Sept 2023` |  |
+| [Day 51](#day51) | `11 Sept 2023` |  |
+| [Day 50](#day50) | `10 Sept 2023` |  |
+| [Day 49](#day49) | `09 Sept 2023` |  |
+| [Day 48](#day48) | `08 Sept 2023` |  |
 | [Day 47](#day47) | `07 Sept 2023` |  |
 | [Day 46](#day46) | `06 Sept 2023` |  |
 | [Day 45](#day45) | `05 Sept 2023` |  |
